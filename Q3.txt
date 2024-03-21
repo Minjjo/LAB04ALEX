@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+¿Cómo es que se instalan paquetes con yarn?
+Para instalar paquetes con Yarn se puede utilizar 
+yarn add <nombre_del_paquete>
+
+Por ejemplo:
+Si se quiere instalar Vue, se usaria 
+yarn add vue
+------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------
+¿Cómo es que se borran paquetes con yarn?
+Para borrar paquetes con Yarn se utiliza el siguiente comando
+yarn remove <nombre_del_paquete>
+
+Por ejemplo:
+Eliminar Vue 
+yarn remove vue
+------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------
+¿Hay algún equivalente en yarn que haga lo mismo que npm init?
+El equivalente seria 
+yarn init
+------------------------------------------------------------------------------------------

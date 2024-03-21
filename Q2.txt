@@ -1,0 +1,2 @@
+¿Para qué sirve el comando git init?
+Sirve para iniciar un nuevo repositorio en nuestro directorio actual donde trabajamos 
