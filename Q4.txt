@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------------------------------------
+¿Cómo elimino una rama creada en git? 
+git branch -d <nombre de la rama>
+--------------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------------
+¿Por qué debería de usar la ramificación en proyectos?
+
+- Experimentación segura.- Proporciona un entorno aislado para 
+probar nuevas ideas sin riesgo de dañar el código existente.
+
+- Facilita un flujo de trabajo eficiente.- Permite trabajar 
+en paralelo y fusionar cambios completados de vuelta al código principal.
+
+- Control de versiones.- Permite mantener diferentes versiones
+del software, como la de producción y la de desarrollo.
+
+- Facilita la revisión de código.- Las solicitudes de extracción 
+permiten revisar y discutir el código antes de fusionarlo, mejorando su calidad y reduciendo errores.
+--------------------------------------------------------------------------------------------------------
+
+
+
+--------------------------------------------------------------------------------------------------------
+Usted recibió un ticket [SEM-005] y una vez terminado el trabajo usted decide crear una rama para un posterior PR. 
+¿Qué nombre pondría a la rama al momento de crearla?
+Seria: 
+<SEM-005/Conexion BD>
+--------------------------------------------------------------------------------------------------------
